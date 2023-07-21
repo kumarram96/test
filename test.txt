@@ -3,6 +3,3 @@ day1-elastic compute clouding
 day3-virtual private cloud
 
 day5-git and jenkins mock
-AKIA4QVYHB3IJI2NSXB2
-
-8UyJmv/H/sQMYrEpo/VyCEUuUhOuSLBnX6zCY6DC
