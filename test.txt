@@ -3,3 +3,4 @@ day1-elastic compute clouding
 day3-virtual private cloud
 
 day5-git and jenkins mock
+hiab 
